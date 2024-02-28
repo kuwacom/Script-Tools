@@ -5,13 +5,13 @@ set "input_directory=./input"
 set "output_directory=./output"
 set "output_extension=.mp4"
 
-echo "Select processing method:"
-echo "1. CPU"
-echo "2. GPU"
+echo Select processing method:
+echo 1. CPU
+echo 2. GPU
 
 set /p choice="Enter choice (1 or 2): "
 if %choice% equ 1 (
-    set "encoder=h264"
+    set "encoder=libx264"
 ) else (
     set "encoder=h264_nvenc"
 )

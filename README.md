@@ -1,2 +1,4 @@
-# Script-Tools
-作成した便利スクリプトを置くリポジトリ
+# What is this
+このリポジトリは、作成したWindowsやLinuxのBATやShellScript等の便利なスクリプトを置いておくところです。
+
+何かミス等ありましたらissue等お願いします

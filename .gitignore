@@ -1,0 +1,7 @@
+# audio files
+*.mp3
+*.wav
+
+# video files
+*.mp4
+*.webm
